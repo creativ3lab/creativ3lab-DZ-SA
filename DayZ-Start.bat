@@ -58,9 +58,9 @@ REM~~~~ModParameters~~~~::
 ::~~~~~~~~~~~~~~~~~~~~~~::
 Rem  ModCheck Parameters :::
 Rem  Client Mods  :::This::Is::Where::You::Will::be::adding::your::Mods::Into::Your::game::::::::::::::::::::::
-Set  Mods="@CF;@EFTUSECVoicesClient;@DayZResurrected;@Helicopter;@BuilderItems;@BuildAnywhere_v3;@ChernarusplusMap;@Community-Online-Tools"
+Set  Mods="@CF;@Community-Online-Tools"
 Rem  Server Mods  :::
-Set  Servermods="@AIServer"
+Set  Servermods=""
 Rem  Ignore Mods
 REM  Set  Ignoremods="@Community-Online-Tools;@ServerLogs"
 ::~~~~~~~~~~~~~~~~~~~~~~::
